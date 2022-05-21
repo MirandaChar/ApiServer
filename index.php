@@ -1,5 +1,5 @@
 <?php
-    include_once 'apimiprimeraapp.php';
+    include_once 'ApiMiPrimeraApp.php';
 
     $api = new ApiMiPrimeraApp();
 
